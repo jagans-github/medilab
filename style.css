@@ -619,13 +619,13 @@ background-color: white;
     top: 30px;
 }
 .img2{
-    background-image: url('/doctors3.jpg');
+    background-image: url('doctors3.jpg');
 }
 .img3{
-    background-image: url('/doctors2.jpg');
+    background-image: url('doctors2.jpg');
 }
 .img4{
-    background-image: url('/doctors-4.jpg');
+    background-image: url('doctors-4.jpg');
 }
 .doc-child{
     height: 230px;

@@ -126,7 +126,7 @@
     text-decoration: none;
 }
 .banner{
-    background-image: url('/herobg.jpg');
+    background-image: url('herobg.jpg');
     width: 100%;
     height: 90vh;
     background-position: center;
@@ -870,7 +870,7 @@ background-color: white;
     margin-top: 30px;
 }
 .map{
-    background-image: url('/thumbnail.jpg');
+    background-image: url('thumbnail.jpg');
     height: 300px;
     background-repeat: no-repeat;
     background-size: cover;
